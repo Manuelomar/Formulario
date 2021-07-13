@@ -12,7 +12,7 @@
     margin-top: 100px;
     border-radius: 4px;
     font-family: 'calibri';
-    color:darkgray;
+    color:aliceblue;
 }.form-register h4{
     font-size: 22px;
     margin-bottom: 20px;
@@ -28,4 +28,26 @@
     font-size: 18px;
 
 
+}
+.form-register p{
+    height: 40px;
+    text-align: center;
+    font: sizeL 18px;
+}
+.form-register a{
+    color: white;
+   text-decoration: none;
+}
+.form-register a:hover{
+    color: white;
+    text-decoration: none;
+}
+.form-register .botons{
+width: 100%;
+background: #1f53c5;
+border: none;
+padding: 12px;
+color: aliceblue;
+margin: 16px 0;
+font-size: 16px;
 }
